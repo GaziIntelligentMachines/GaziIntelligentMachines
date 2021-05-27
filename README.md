@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GaziIntelligentMachines
+- 👀 I’m interested in Deep learning
+- 🌱 I’m currently learning differnt approaches to building real-life solutions using deep learning
+- 📫 How to reach me gazi@intelligentmachin.es
